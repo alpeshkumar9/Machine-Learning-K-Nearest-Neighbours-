@@ -1,1 +1,4 @@
-# Machine-Learning-K-Nearest-Neighbours-
+# Machine Learning
+
+Algorithms:
+1) KNN Algorithm
